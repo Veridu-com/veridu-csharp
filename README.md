@@ -8,7 +8,7 @@ This is a way of contacting Veridu's API through C# in a easy way. Using this SD
   - Fetch API Resources
   - Fetch signed API Resources
 
-If you have **any** problem regarding contacting the API or about how Veridu Works, you can take a look at our [http://veridu.com/wiki/](Wiki) or our [http://veridu.com/](Website)
+If you have **any** problem regarding contacting the API or about how Veridu Works, you can take a look at our [Wiki](http://veridu.com/wiki/) or our [Website](http://veridu.com/).
 
 Bugs and feature requests
 -------------------------
@@ -31,10 +31,10 @@ System:
 * System.Web.Extensions
 
 NuGet
-* [https://www.nuget.org/packages/newtonsoft.json/](Json.NET) - popular high-performance JSON framework for .NET
+* [Json.NET](https://www.nuget.org/packages/newtonsoft.json/) - popular high-performance JSON framework for .NET
 
 
 Copyright and license
 ---------------------
 
-Copyright (c) 2013/2014 - Veridu Ltd - [http://veridu.com](veridu.com)
+Copyright (c) 2013/2014 - Veridu Ltd - [veridu.com](http://veridu.com)

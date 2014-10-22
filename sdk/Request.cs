@@ -10,7 +10,7 @@ using Newtonsoft.Json.Linq;
 
 namespace Veridu
 {
-    class Request
+    public class Request
     {
         private String clientId;
         private String version = "0.3";

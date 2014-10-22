@@ -8,7 +8,7 @@ using System.Web.Script.Serialization;
 
 namespace Veridu
 {
-    class Session
+    public class Session
     {
         public Request request;
         private String token;
